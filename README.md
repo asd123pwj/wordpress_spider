@@ -1,0 +1,2 @@
+# wordpress_spider
+WordPress爬虫。包括爬取文章并转换为CSDN、博客园可用格式，爬取StackOverflow转为WordPress可用格式。
